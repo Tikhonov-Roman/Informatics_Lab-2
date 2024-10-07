@@ -13,7 +13,8 @@ gedit id_converter.bash
 ```
 Введем следующий код:
 
-![image](https://github.com/user-attachments/assets/66c51ec7-8322-42bd-95ff-b74fab00b7e6)
+![image](https://github.com/user-attachments/assets/f270e03b-ac91-4ed8-8f00-4d921e7906a7)
+
 
 
 Сохраним файл и запустим его через терминал.
